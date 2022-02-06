@@ -2,6 +2,8 @@
 
 These are my EOS R5 camera settings.
 
+NOTE: After loading settings from card, turn camera off and on to avoid random fuckery.
+
 ## History
 
 ### 2022-02-06 → CAMSET03.CSD → Baby got BACK (button focus)
